@@ -6,7 +6,7 @@
 - Readable code to improve maintainability.
   - Readable code saves future developers time and effort.
     Code readability is key for large software projects with many developers, and where the source code that is being written will have to be modified by another person.
-  - Generally, good implementations of user requirements, readability and performance are the keys of a good code.
+  - Usually, readable code leads to a good implementation of the user's requirements and makes it easier to tune performance.
 
 ## Blueprint
 
